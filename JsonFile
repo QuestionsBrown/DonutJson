@@ -1,0 +1,25 @@
+{
+"actors": [
+    {
+        "id": 1,
+        "name": "Kyle",
+        "petAge": 3,
+        "petId": 1,
+        "petName": "Snowball"
+    },
+    {
+        "id": 2,
+        "name": "Sarah",
+        "petAge": 8,
+        "petId": 2,
+        "petName": "Max"
+    },
+    {
+        "id": 3,
+        "name": "Bob",
+        "petAge": 2,
+        "petId": 3,
+        "petName": "Morty"
+    }
+]
+}
